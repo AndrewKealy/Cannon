@@ -1,3 +1,17 @@
 [
-
+  {
+    "libraryIdentifier" : "4db2adc34c9f638edd7f0b47822f6467",
+    "format" : "model",
+    "displayName" : "bang.usdz"
+  },
+  {
+    "libraryIdentifier" : "a6dad719e336988c09b5073898f3406e",
+    "format" : "model",
+    "displayName" : "cannon3-2.usdz"
+  },
+  {
+    "libraryIdentifier" : "306c0355ca5004fa3803818a68792dbb",
+    "format" : "audio",
+    "displayName" : "Explosion.mp3"
+  }
 ]
